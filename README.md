@@ -3,7 +3,7 @@
 ![maven workflow](https://github.com/jpala4-ieti/DAM2-MP06-UF04-Java-Base/actions/workflows/maven.yml/badge.svg)
 
 ## Arrencada ràpida ##
-Execució ràpida dels diferents exemples i resolusions de problemes
+Execució ràpida dels diferents exemples i resolusions de problemes.
 
 ## Windows ##
 ```bash
