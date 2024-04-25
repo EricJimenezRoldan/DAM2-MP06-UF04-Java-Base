@@ -19,7 +19,7 @@ run.sh  cat.iesesteveterradas.Main
 
 Dins del directori etc/mongodb-docker es troba el fitxer de configuració docker-compose.yml
 
-Per arrencar les instàncies, al canviar a dins del directori.
+Per arrencar les instàncies, al canviar a dins del directori
 
 ## Creació d'instàncies ##
 ```bash
